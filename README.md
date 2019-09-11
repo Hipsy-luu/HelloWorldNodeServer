@@ -18,7 +18,7 @@ Se requerira tener instalado git en la computadora para el caso de linux ejecuta
 
 El siguiente comando sirve para dockerizar la app
     
-    -   docker run -p 49160:8080 -d <your username>/node-web-server-app
+    -   docker run -p 49160:1111 -d <your username>/node-web-server-app
 
 Los siguientes comandos sirven para la subida de archivos y commits para
     * [GitHub] - 
